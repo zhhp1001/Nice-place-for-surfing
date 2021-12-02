@@ -35,4 +35,6 @@
 
 - emoji https://gist.github.com/rxaviers/7360908
 - repology https://repology.org/
+## English
 
+- https://www.etymonline.com/
