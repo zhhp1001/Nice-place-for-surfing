@@ -2,7 +2,7 @@
 
 ## Coding
 
-- Design pattern and refacotr https://refactoring.guru/
+- Design pattern and refactor https://refactoring.guru/
 
 - Open source software https://www.linuxlinks.com/
 - The art of UNIX http://catb.org/~esr/writings/taoup/html/
