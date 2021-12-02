@@ -37,4 +37,4 @@
 - repology https://repology.org/
 ## English
 
-- https://www.etymonline.com/
+- Online Etymology Dictionary https://www.etymonline.com/
