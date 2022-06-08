@@ -6,6 +6,7 @@
 
 - Open source software https://www.linuxlinks.com/
 - The art of UNIX http://catb.org/~esr/writings/taoup/html/
+- C gibberish ↔ English: https://cdecl.org/
 
 ## Git
 
