@@ -36,6 +36,11 @@
 
 - emoji https://gist.github.com/rxaviers/7360908
 - repology https://repology.org/
+
 ## English
 
 - Online Etymology Dictionary https://www.etymonline.com/
+
+## Open Hardware Projects
+
+- https://hackaday.io/
