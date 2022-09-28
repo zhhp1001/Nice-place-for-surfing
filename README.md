@@ -28,6 +28,9 @@
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - https://visualgo.net/zh
 
+## Tech Blog
+- https://beej.us/guide/
+
 **Material**
 
 - http://www.algorithmsilluminated.org/
