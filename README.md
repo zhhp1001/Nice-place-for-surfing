@@ -49,3 +49,6 @@
 ## Open Hardware Projects
 
 - https://hackaday.io/
+
+## GPT
+https://blog.hackertab.dev/50-chat-gpt-prompts-every-software-developer-should-know-tested
